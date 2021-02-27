@@ -16,5 +16,10 @@
     "sourceType": "module"
   },
   "plugins": ["react"],
-  "rules": {}
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "quotes": [2, "single", "avoid-escape"],
+    "object-curly-newline": ["error", { "multiline": true }],
+    "react/jsx-one-expression-per-line": "off"
+  }
 }
