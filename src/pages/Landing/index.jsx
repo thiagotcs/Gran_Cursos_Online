@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import logoImg from '../../assets/images/LogoGranCursos.svg';
@@ -19,15 +20,15 @@ export default function Landing() {
           <img src={landingImg} alt="Plataforma de estudos" className="hero-image" />
 
           <div className="buttons-container">
-            <a href="/" className="study">
+            <Link to="/home" className="study">
               <FontAwesomeIcon icon="book-open" />
               Estudar
-            </a>
+            </Link>
 
-            <a href="/" className="give-classes">
+            <Link to="/home" className="give-classes">
               <FontAwesomeIcon icon="chalkboard-teacher" />
               Cursos
-            </a>
+            </Link>
           </div>
           <span className="total-connections">
             Total de 1000 conexões já realizadas <FontAwesomeIcon icon="heart" />

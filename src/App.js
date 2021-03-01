@@ -1,10 +1,11 @@
 import React from 'react';
 import './Components/FontAwesomeIcons';
-import Landing from './pages/Landing';
+
+import Routes from './routes/routes';
 import './styles/global.css';
 
 function App() {
-  return <Landing />;
+  return <Routes />;
 }
 
 export default App;
