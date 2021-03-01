@@ -59,7 +59,6 @@ Front-end: <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML </a
 - Markdown: <a href="https://www.emojicopy.com/">Emojicopy</a> | <a href="https://gist.github.com/rxaviers/7360908">Markdown Emoji</a>
 - Badges: <a href="https://shields.io/">Shields</a>
 
-## <p align = "center"> 🚀 <a href="" target="_blank">Site publicado</a></p>
 
 ## 📝 Licença
 
