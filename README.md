@@ -29,7 +29,7 @@ Foi de grande valor ter essa experiência, desafios é desenvolver page de home 
 ## 🚀 Como executar o projeto
 
 <p>
-Este projeto consiste em três partes:
+Este projeto consiste em duas partes:
 </p>
 
 1. Desenvolvimento do Frontend das telas Login e Home
